@@ -16,7 +16,7 @@ apple orange banana banana orange | banana
 ### Пример 2
 Ввод | Вывод
 ---| ---
-oh you touch my tralala mmm my ding ding dong | ding <br><br>
+oh you touch my tralala mmm my ding ding dong | ding 
 
 ### Пример 3
 Ввод | Вывод
