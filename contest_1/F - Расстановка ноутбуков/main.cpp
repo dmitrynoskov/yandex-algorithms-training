@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 
-usinf namespace std;
+using namespace std;
 
 int main() {
     int widthFirst, lengthFirst, widthSecond, lengthSecond;
