@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     int a, b, n, m;
-    scin >> a >> b >> n >> m;
+    cin >> a >> b >> n >> m;
 
     int firstMin = n + (n - 1) * a;
     int firstMax = firstMin + 2 * a;
