@@ -16,7 +16,7 @@ one two one tho three | 0 0 1 0 0
 ### Пример 2
 Ввод | Вывод
 ---| ---
-She sells sea shells on the sea shore; <br> The shells that she sells are sea shells I'm sure. <br> So if she sells sea shells on the sea shore, <br> I'm sure that the shells are sea shore shells.| 0 0 0 0 0 0 1 0 0 1 0 0 1 0 2 2 0 0 0 0 1 2 3 3 1 1 4 0 1 0 1 2 4 1 5 0 0 <br><br><br><br><br><br><br><br><br>
+She sells sea shells on the sea shore; <br> The shells that she sells are sea shells I'm sure. <br> So if she sells sea shells on the sea shore, <br> I'm sure that the shells are sea shore shells.| 0 0 0 0 0 0 1 0 0 1 0 0 1 0 2 2 0 0 0 0 1 2 3 3 1 1 4 0 1 0 1 2 4 1 5 0 0 <br><br><br><br><br><br><br>
 
 ### Пример 3
 Ввод | Вывод
