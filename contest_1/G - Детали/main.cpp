@@ -1,6 +1,6 @@
 #include <iostream>
 
-usinf namespase std;
+using namespase std;
 
 int main() {
     int N, K, M;
