@@ -10,5 +10,5 @@
 |4|[Словари и сортировка подсчётом](https://contest.yandex.ru/contest/27665/enter/)|10 / 10|
 |5|[Префиксные суммы и два указателя](https://contest.yandex.ru/contest/27794/enter/)|10 / 10|
 |6|[Бинарный поиск](https://contest.yandex.ru/contest/27844/enter/)|11 / 11|
-|7|[Сортировка событий](https://contest.yandex.ru/contest/27883/enter/)|0 / 10|
+|7|[Сортировка событий](https://contest.yandex.ru/contest/27883/enter/)|4 / 10|
 |8|[Деревья](https://contest.yandex.ru/contest/28069/enter/)|0 / 10|
