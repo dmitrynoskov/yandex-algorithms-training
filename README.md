@@ -4,7 +4,7 @@
 
 | Номер задания | Контест | Состояние |
 |---|---|---|
-|1|[Сложность, тестирование, особые случаи](https://contest.yandex.ru/contest/27393/enter/)|9 / 10|
+|1|[Сложность, тестирование, особые случаи](https://contest.yandex.ru/contest/27393/enter/)|10 / 10|
 |2|[Линейный поиск](https://contest.yandex.ru/contest/27472/enter/)|10 / 10|
 |3|[Множества](https://contest.yandex.ru/contest/27663/enter/)|10 / 10|
 |4|[Словари и сортировка подсчётом](https://contest.yandex.ru/contest/27665/enter/)|10 / 10|
